@@ -1,0 +1,27 @@
+.odd{
+background-color: pink;
+font-family: verdana,sans-serif;
+font-size: 30px;
+}
+
+#line-2{
+color:rgb(14, 14, 224);
+font-size: 80px;
+font-family: 'Lucida Sans', sans-serif;
+
+}
+
+#line-4{
+font-weight: bold;
+font-size: 60px;
+background-color:rgb(128, 236, 128);
+font-family: 'Lucida Sans', sans-serif;
+
+
+}
+
+#cooler{
+
+    font-size: 60px;
+
+}
